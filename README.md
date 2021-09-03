@@ -22,7 +22,7 @@
   <p align="center">
     An awesome & simple responsive HTML template for training
     <br />
-    <a href="">View Demo</a>
+    <a href="https://ham47mani.github.io/leon/">View Demo</a>
     ·
     <a href="https://github.com/Ham47Mani/leon/issues">Report Bug</a>
     ·
